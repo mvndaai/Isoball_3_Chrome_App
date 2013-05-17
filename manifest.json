@@ -1,0 +1,11 @@
+{
+  "name": "Isoball 3 App!",
+  "description": "Isoball 3 App",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "isoball_3-16.png", "128": "isoball_3-128.png" }
+}
