@@ -11,7 +11,7 @@ Thank you Gimme5games for making it flashy I guess: http://www.gimme5games.com/p
 The iOS version supposedly was made by this guy: http://www.zattikka.com/
 Download it here: https://itunes.apple.com/us/app/isoball/id404000220
 
-I didn't mean to steal anyone's money from adds or whatever.
+I didn't mean to steal anyone's money from ads or however they make money.
 
-There is still an add at the bigginning, but it cannot do anything with external links.
+There is still an ad at the biginning, but the app cannot open with external links.
 --Jason

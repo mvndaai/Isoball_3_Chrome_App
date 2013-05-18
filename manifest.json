@@ -11,6 +11,4 @@
   "icons": { "16": "isoball_3-16.png", "128": "isoball_3-128.png" },
   
   "permissions":["webview"]
-  
- // "sandbox":{//	"pages":["window.html"]}
 }
