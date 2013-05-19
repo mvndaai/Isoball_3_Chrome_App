@@ -1,4 +1,4 @@
---Read Me--
+-Read Me--
 This is my first attempt at an Chrome App (http://developer.chrome.com/apps/about_apps.html). Here is what I did, and what who actually made the content so I don't get in trouble. This was probably the worst way to start, embedding a flash game, but the game was the only thing I had on chrome already.
 
 I took a game that already had an "app" (read website redirect) made by evolvedarcade: http://www.evolvedonlinegames.com/app.php?id=6216
